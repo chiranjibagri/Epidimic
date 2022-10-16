@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  app:
+    image: cb401/epidimic
+    ports:
+      - 83:80
